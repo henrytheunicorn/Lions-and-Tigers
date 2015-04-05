@@ -13,6 +13,15 @@
 		BA0249351AD0BC79004C19CD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA0249341AD0BC79004C19CD /* Images.xcassets */; };
 		BA0249381AD0BC79004C19CD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA0249361AD0BC79004C19CD /* LaunchScreen.xib */; };
 		BA0249441AD0BC7A004C19CD /* Lions_and_TigersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA0249431AD0BC7A004C19CD /* Lions_and_TigersTests.swift */; };
+		BA02494E1AD0D5DA004C19CD /* Tiger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA02494D1AD0D5DA004C19CD /* Tiger.swift */; };
+		BA0249571AD0DC81004C19CD /* BengalTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA02494F1AD0DC81004C19CD /* BengalTiger.jpg */; };
+		BA0249581AD0DC81004C19CD /* IndochineseTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA0249501AD0DC81004C19CD /* IndochineseTiger.jpg */; };
+		BA0249591AD0DC81004C19CD /* Lion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA0249511AD0DC81004C19CD /* Lion.jpg */; };
+		BA02495A1AD0DC81004C19CD /* LionCub1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA0249521AD0DC81004C19CD /* LionCub1.jpg */; };
+		BA02495B1AD0DC81004C19CD /* LionCub2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BA0249531AD0DC81004C19CD /* LionCub2.jpeg */; };
+		BA02495C1AD0DC81004C19CD /* Lioness.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BA0249541AD0DC81004C19CD /* Lioness.jpeg */; };
+		BA02495D1AD0DC81004C19CD /* MalayanTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA0249551AD0DC81004C19CD /* MalayanTiger.jpg */; };
+		BA02495E1AD0DC81004C19CD /* SiberianTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA0249561AD0DC81004C19CD /* SiberianTiger.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +45,15 @@
 		BA02493D1AD0BC7A004C19CD /* Lions and TigersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lions and TigersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA0249421AD0BC7A004C19CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BA0249431AD0BC7A004C19CD /* Lions_and_TigersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lions_and_TigersTests.swift; sourceTree = "<group>"; };
+		BA02494D1AD0D5DA004C19CD /* Tiger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tiger.swift; sourceTree = "<group>"; };
+		BA02494F1AD0DC81004C19CD /* BengalTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BengalTiger.jpg; sourceTree = "<group>"; };
+		BA0249501AD0DC81004C19CD /* IndochineseTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IndochineseTiger.jpg; sourceTree = "<group>"; };
+		BA0249511AD0DC81004C19CD /* Lion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lion.jpg; sourceTree = "<group>"; };
+		BA0249521AD0DC81004C19CD /* LionCub1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LionCub1.jpg; sourceTree = "<group>"; };
+		BA0249531AD0DC81004C19CD /* LionCub2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LionCub2.jpeg; sourceTree = "<group>"; };
+		BA0249541AD0DC81004C19CD /* Lioness.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lioness.jpeg; sourceTree = "<group>"; };
+		BA0249551AD0DC81004C19CD /* MalayanTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MalayanTiger.jpg; sourceTree = "<group>"; };
+		BA0249561AD0DC81004C19CD /* SiberianTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SiberianTiger.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +98,7 @@
 				BA02492D1AD0BC79004C19CD /* AppDelegate.swift */,
 				BA02492F1AD0BC79004C19CD /* ViewController.swift */,
 				BA0249311AD0BC79004C19CD /* Main.storyboard */,
+				BA02494D1AD0D5DA004C19CD /* Tiger.swift */,
 				BA0249341AD0BC79004C19CD /* Images.xcassets */,
 				BA0249361AD0BC79004C19CD /* LaunchScreen.xib */,
 				BA02492B1AD0BC79004C19CD /* Supporting Files */,
@@ -90,6 +109,14 @@
 		BA02492B1AD0BC79004C19CD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BA02494F1AD0DC81004C19CD /* BengalTiger.jpg */,
+				BA0249501AD0DC81004C19CD /* IndochineseTiger.jpg */,
+				BA0249511AD0DC81004C19CD /* Lion.jpg */,
+				BA0249521AD0DC81004C19CD /* LionCub1.jpg */,
+				BA0249531AD0DC81004C19CD /* LionCub2.jpeg */,
+				BA0249541AD0DC81004C19CD /* Lioness.jpeg */,
+				BA0249551AD0DC81004C19CD /* MalayanTiger.jpg */,
+				BA0249561AD0DC81004C19CD /* SiberianTiger.jpg */,
 				BA02492C1AD0BC79004C19CD /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +219,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA0249581AD0DC81004C19CD /* IndochineseTiger.jpg in Resources */,
 				BA0249331AD0BC79004C19CD /* Main.storyboard in Resources */,
 				BA0249381AD0BC79004C19CD /* LaunchScreen.xib in Resources */,
+				BA02495C1AD0DC81004C19CD /* Lioness.jpeg in Resources */,
+				BA02495A1AD0DC81004C19CD /* LionCub1.jpg in Resources */,
+				BA02495D1AD0DC81004C19CD /* MalayanTiger.jpg in Resources */,
+				BA02495E1AD0DC81004C19CD /* SiberianTiger.jpg in Resources */,
+				BA0249571AD0DC81004C19CD /* BengalTiger.jpg in Resources */,
 				BA0249351AD0BC79004C19CD /* Images.xcassets in Resources */,
+				BA0249591AD0DC81004C19CD /* Lion.jpg in Resources */,
+				BA02495B1AD0DC81004C19CD /* LionCub2.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,6 +248,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA0249301AD0BC79004C19CD /* ViewController.swift in Sources */,
+				BA02494E1AD0D5DA004C19CD /* Tiger.swift in Sources */,
 				BA02492E1AD0BC79004C19CD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
